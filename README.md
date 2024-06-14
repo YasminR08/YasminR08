@@ -1,4 +1,4 @@
-Ola, meu nome E Yasmin 
+Ola, meu nome E Yasmin Rodrigues
 Sou estudante do curso do Alura
  Estou em desenvolvimento na linguagem do JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
